@@ -1,4 +1,4 @@
-# Centro médico dental de Ñuñoa
+# Centro Médico Dental de Ñuñoa
 
 ## Descripción
 
